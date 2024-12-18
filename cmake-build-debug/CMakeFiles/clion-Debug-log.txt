@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/nelson/Library/CloudStorage/OneDrive-Personal/Documents/Nelson/USAC/FIUSAC/2024/Vacaciones diciembre 2024/EDD/Laboratorio/[EDD]Proyecto1_201222010_v2.0/-EDD-Proyecto1_201222010_v2.0" -B "/Users/nelson/Library/CloudStorage/OneDrive-Personal/Documents/Nelson/USAC/FIUSAC/2024/Vacaciones diciembre 2024/EDD/Laboratorio/[EDD]Proyecto1_201222010_v2.0/-EDD-Proyecto1_201222010_v2.0/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/nelson/Library/CloudStorage/OneDrive-Personal/Documents/Nelson/USAC/FIUSAC/2024/Vacaciones diciembre 2024/EDD/Laboratorio/[EDD]Proyecto1_201222010_v2.0/-EDD-Proyecto1_201222010_v2.0/cmake-build-debug
